@@ -1,0 +1,17 @@
+C:\Users\deniz\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=C:/Users/deniz/AppData/Local/Programs/CLion/bin/ninja/win/x64/ninja.exe -G Ninja -S C:\Users\deniz\CLionProjects\Dijkstra -B C:\Users\deniz\CLionProjects\Dijkstra\cmake-build-debug
+-- The C compiler identification is GNU 13.1.0
+-- The CXX compiler identification is GNU 13.1.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/mingw64/bin/gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: C:/mingw64/bin/c++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Found SFML 2.6.1 in C:/SFML-2.6.1/lib/cmake/SFML
+-- Configuring done (2.7s)
+-- Generating done (0.0s)
+-- Build files have been written to: C:/Users/deniz/CLionProjects/Dijkstra/cmake-build-debug
